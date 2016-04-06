@@ -1,3 +1,3 @@
 # CS350
-A collection of CS350 Programming Assignments
+Pep/8 Disassembler and Interpreter
  
